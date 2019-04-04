@@ -1,0 +1,12 @@
+*.pdf
+*.gz
+*.png
+*.pyc
+*.csv
+*.xlsx
+*.spydata
+*.doc
+*.docx
+*.xls
+*.xlsx
+.DS_Store
