@@ -1,6 +1,6 @@
 title: Adriaan P Hilbers
 url: " "
-baseurl: ""
+baseurl: "/site/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: ""
+   link: "/site/"
  - name: "Research"
    link: "research"
  - name: "Blog"
