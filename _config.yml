@@ -1,6 +1,6 @@
 title: Adriaan P Hilbers
 url: " "
-baseurl: "/"
+baseurl: "/site/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
