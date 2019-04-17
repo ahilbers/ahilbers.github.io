@@ -58,4 +58,4 @@ All courses at Imperial College London.
 
 ## Miscallaneous
 
-* Short report on using a variational autoencoder (deep learning generative model) to create custom images of clothing from [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset. Part of PhD level Deep Learning course. See [PDF](PDFs/vae_report.pdf)
+* Short [report](PDFs/vae_report.pdf) on using a variational autoencoder (deep learning generative model) to create custom images of clothing from [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset. Part of PhD level Deep Learning course.
