@@ -11,7 +11,7 @@ First-year PhD student in computational statistics applied to renewable energy, 
 
 Dutch native having lived in Amsterdam (1993-1996, 2010-2012, 2016-2017), Washington DC (1996-2010), Oxford (2012-2016) and London (2017-present).
 
-20.46
+20.50
 
 
 ###  Research Interests
