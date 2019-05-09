@@ -1,6 +1,6 @@
 title: Adriaan P Hilbers
-url: "ahilbers.github.io"
-baseurl: "/index "
+url: "ahilbers.github.io/"
+baseurl: "index"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
