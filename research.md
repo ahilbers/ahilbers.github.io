@@ -47,7 +47,7 @@ One way of informing such decisions is by simulating electricity systems using h
 Year | Description
 ----- | ------------------
 2019 | *Machine Learning* (master's level health & data science course)
-2019 | *Mathematical Methods* (first year undegraduate mathematics course)
+2019 | *Mathematical Methods* (first year undergraduate mathematics course)
 2018 | *Data & Uncertainty* (master's level mathematics course)
 
 All courses at Imperial College London.
