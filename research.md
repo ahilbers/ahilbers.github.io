@@ -16,9 +16,9 @@ Computational statistics, renewable energy, machine/deep learning.
 
 **Supervisors**: [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) (Imperial College London, lead) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) (University of Reading).
 
-My PhD focuses on making the best data-driven decisions in the energy transition, particularly regarding power (electricity) systems. Such choices (e.g. whether to build a wind farm, battery or new transmission line) are complicated due the complexity of the grid (which makes the effect of a choice difficult to estimate) and considerable uncertainty regarding future government policy, grid developments, demand patterns and weather events.
+My PhD focuses on using statistics to make the best decisions in the energy transition, particularly in the electricity sector. Such decisions (e.g. whether to build a wind farm, battery or new transmission line) are typically difficult due to the complexity of electricity grids and considerable uncertainty regarding future government policy, grid developments, demand patterns and weather events.
 
-One way of informing such decisions is by simulating electricity systems using historial demand & weather data. However, future demand & weather patterns may differ. In this way, decision-making becomes a natural statistical problem: how can we use data to make the best decisions in the energy transition?
+For this reason, electricity strategy is typically informed by large amounts of data. For example, to determine the best location of a new wind farm, wind speeds for each hour in the last 10 years across different regions of the grid can be employed, along with a computer simulation of the electricity grid. This leads to a natural statistics problem: how do we use the available data to make the best decisions in the energy transition?
 
 
 ---
@@ -28,7 +28,7 @@ One way of informing such decisions is by simulating electricity systems using h
 
 #### Peer Reviewed Journals
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). *Importance subsampling: improving power system planning under climate-based uncertainty*. Accepted at *Applied Energy*. Preprint: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916)
+* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](doi.org/10.1016/j.apenergy.2019.04.110). Preprint: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916)
 
 #### Conference Presentations
 
