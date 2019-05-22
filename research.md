@@ -12,7 +12,7 @@ Computational statistics, renewable energy, machine/deep learning.
 ---
 
 
-## PhD Research
+## PhD research
 
 **Supervisors**: [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) (Imperial College London, lead) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) (University of Reading).
 
