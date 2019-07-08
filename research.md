@@ -34,7 +34,9 @@ For this reason, electricity strategy is typically informed by large amounts of 
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2019). *Importance subsampling: improving power system planning under climate-based uncertainty*. Poster presented at *The Mathematics of Energy Systems*, Isaac Newton Institute, University of Cambridge, 18-22 March 2019.
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). *Improving power system planning under climate-based uncertainty*. Poster accepted at *6th International Conference Energy & Meteorology (ICEM)*, Technical University Denmark (DTU), 25-27 June 2019.
+* AP Hilbers, DJ Brayshaw, A Gandy (2019). *Importance subsampling: improving power system planning under climate-based uncertainty*. Talk presented at *University of Reading SIAM-IMA student chapter conference*, University of Reading, 7 June 2019.
+
+* AP Hilbers, DJ Brayshaw, A Gandy (2019). *Improving power system planning under climate-based uncertainty*. Poster presented at *6th International Conference Energy & Meteorology (ICEM)*, Technical University Denmark (DTU), 25-27 June 2019.
 
 
 ---
