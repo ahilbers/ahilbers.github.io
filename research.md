@@ -28,7 +28,7 @@ For this reason, electricity strategy is typically informed by large amounts of 
 
 #### Peer Reviewed Journals
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). Preprint: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916)
+* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). Preprint: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916). [Code](htts://github.com/ahilbers/2019_importance_subsampling) freely available on Github.
 
 #### Conference Presentations
 
