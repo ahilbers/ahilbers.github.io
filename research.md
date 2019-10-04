@@ -48,6 +48,7 @@ For this reason, electricity strategy is typically informed by large amounts of 
 
 Year | Description
 ----- | ------------------
+2019 | *Machine Learning* (university level summer school)
 2019 | *Machine Learning* (master's level health & data science course)
 2019 | *Mathematical Methods* (first year undergraduate mathematics course)
 2018 | *Data & Uncertainty* (master's level mathematics course)
@@ -55,9 +56,4 @@ Year | Description
 All courses at Imperial College London.
 
 
----
 
-
-## Miscallaneous
-
-* Short [report](PDFs/vae_report.pdf) on using a variational autoencoder (deep learning generative model) to create custom images of clothing from [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset. Part of PhD level Deep Learning course.
