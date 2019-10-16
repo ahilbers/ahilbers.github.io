@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="images/adriaan.jpg">
 
-First-year PhD student in statistics and machine learning applied to renewable energy, at Imperial College London, with [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/). Due to finish end of 2021. Funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org). Writer of [general audience articles](blog) about renewable energy.
+Second-year PhD student in statistics and machine learning applied to renewable energy, at Imperial College London, with [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/). Due to finish end of 2021. Funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org). Writer of [general audience articles](blog) about renewable energy.
 
 
 ###  Research Interests
