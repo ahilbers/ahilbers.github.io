@@ -21,7 +21,7 @@ Computational statistics, renewable energy, machine/deep learning. See [research
 
 Year | Institution | Description
 ----- | ------- | ------------------
-*2021* (exp) | Imperial College London | PhD, Computational Statistics
+(2021) | Imperial College London | PhD, Computational Statistics
 2018 | Imperial College London | Master's degree by research, Mathematics
 2016 | University of Oxford | Master's degree, Mathematical & Theoretical Physics
 2015 | University of Oxford | Bachelor's degree, Mathematics
