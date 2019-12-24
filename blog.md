@@ -3,8 +3,10 @@ layout: default
 is_contact: false
 ---
 
+# Blog
 
-## Blog: articles for general audiences
+
+## Articles for general audiences
 
 The following articles are catered to a general audience interested in (renewable) energy. I write about themes that are popular in the media or that I get asked about a lot.
 
