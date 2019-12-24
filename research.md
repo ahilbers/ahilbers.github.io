@@ -54,10 +54,8 @@ For this reason, electricity strategy is typically informed by large amounts of 
 
 Year | Description
 ----- | ------------------
-2019 | *Tensorflow 2* (new online course)
+2019 | *Tensorflow 2* (online Coursera course)
 2019 | *Machine Learning* (university level summer school)
-2019 | *Machine Learning* (master's level health & data science course)
-2019 | *Computational Statistics* (master's level statistics course)
 2019 | *Mathematical Methods* (first year undergraduate mathematics course)
 2018 | *Data & Uncertainty* (master's level mathematics course)
 
