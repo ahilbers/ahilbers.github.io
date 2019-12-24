@@ -3,12 +3,10 @@ layout: default
 is_contact: false
 ---
 
-# Research
+## Research
 
 
-## Research interests
-
-Computational statistics, renewable energy, machine/deep learning.
+*Research interests*: Computational statistics, renewable energy, machine/deep learning.
 
 
 ---
