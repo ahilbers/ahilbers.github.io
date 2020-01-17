@@ -30,7 +30,7 @@ For this reason, electricity strategy is typically informed by large amounts of 
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). Publicly available preprint: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916). Code [freely available on Github](https://github.com/ahilbers/2019_importance_subsampling).
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019, in review). Quantifying demand and weather uncertainty in power system models using the $m$ out of $n$ bootstrap. Publicly available preprint: [arXiv:1912.10326](https://arxiv.org/abs/1912.10326). Code [freely available on Github](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification).
+* AP Hilbers, DJ Brayshaw, A Gandy (2019, in review). Quantifying demand and weather uncertainty in power system models using the *m* out of *n* bootstrap. Publicly available preprint: [arXiv:1912.10326](https://arxiv.org/abs/1912.10326). Code [freely available on Github](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification).
 
 
 
@@ -41,6 +41,12 @@ For this reason, electricity strategy is typically informed by large amounts of 
 * AP Hilbers, DJ Brayshaw, A Gandy (2019). *Importance subsampling: improving power system planning under climate-based uncertainty*. Talk presented at *University of Reading SIAM-IMA student chapter conference*, University of Reading, 7 June 2019.
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2019). *Improving power system planning under climate-based uncertainty*. Poster presented at *6th International Conference Energy & Meteorology (ICEM)*, Technical University Denmark (DTU), 25-27 June 2019.
+
+
+
+### Software
+
+* Renewable test power system models: a set of easy-to-use and customisable power system models for renewable energy and time series analysis. [Available on Github](https://github.com/ahilbers/renewable_test_PSMs)
 
 
 ---
