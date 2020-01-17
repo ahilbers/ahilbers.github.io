@@ -15,3 +15,6 @@ The following articles are catered to a general audience interested in (renewabl
 * [What's the deal with nuclear?](https://whyitrainedtoday.co.uk/index.php/2018/10/15/whats-the-deal-with-nuclear/): advantages and disadvantages of nuclear power in the energy transition and why it's so controversial.
 
 * [How renewable are renewables really?](https://whyitrainedtoday.co.uk/index.php/2018/11/29/how-renewable-are-renewables-really/): clean energy's material requirements, the effect on the energy transition and possible solutions. Co-authored with [Mariana Clare](https://www.imperial.ac.uk/people/m.clare17).
+
+
+---
