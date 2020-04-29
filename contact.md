@@ -7,7 +7,7 @@ is_contact: true
 
 #### <img class="inline-picture" src="images/email.png"> &nbsp; [a.hilbers@icloud.com](mailto:a.hilbers@icloud.com) (personal)
 
-#### <img class="inline-picture" src="images/email.png"> &nbsp; [aph416@ic.ac.uk](mailto:a.hilbers17@imperial.ac.uk) (academic)
+#### <img class="inline-picture" src="images/email.png"> &nbsp; [a.hilbers17@imperial.ac.uk](mailto:a.hilbers17@imperial.ac.uk) (academic)
 
 
 
