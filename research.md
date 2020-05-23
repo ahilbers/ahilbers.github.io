@@ -26,11 +26,13 @@ For this reason, electricity strategy is typically informed by large amounts of 
 
 ## Publications
 
+See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ&hl=en&oi=ao) for up-to-date publication list.
+
 #### Academic papers
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). Publicly available preprint: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916). Code [freely available on Github](https://github.com/ahilbers/2019_importance_subsampling).
+* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). Publicly available preprint: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916). Code [available on Github](https://github.com/ahilbers/2019_importance_subsampling).
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019, in review). Quantifying demand and weather uncertainty in power system models using the *m* out of *n* bootstrap. Publicly available preprint: [arXiv:1912.10326](https://arxiv.org/abs/1912.10326). Code [freely available on Github](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification).
+* AP Hilbers, DJ Brayshaw, A Gandy (2019, in review). Quantifying demand and weather uncertainty in power system models using the *m* out of *n* bootstrap. Publicly available preprint: [arXiv:1912.10326](https://arxiv.org/abs/1912.10326). Code [available on Github](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification).
 
 
 
