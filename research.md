@@ -44,6 +44,8 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2019). *Improving power system planning under climate-based uncertainty*. Poster presented at *6th International Conference Energy & Meteorology (ICEM)*, Technical University Denmark (DTU), 25-27 June 2019.
 
+* AP Hilbers, DJ Brayshaw, A Gandy (2020). *Demand & weather uncertainty in power system planning: the problem, a test case and some candidate solutions*. Poster presented at *EPSRC Supergen Energy Networks Hug Risk Day*, University of Strathclyde, 4 March 2020.
+
 
 
 #### Software
