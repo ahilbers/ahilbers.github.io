@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="images/adriaan.jpg">
 
-Second-year PhD student in statistics and machine learning applied to renewable energy, at Imperial College London, with [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/). Due to finish end of 2021. Funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org). Member of the [Energy Meteorology Research Group](https://research.reading.ac.uk/met-energy/). Director of Content Creation for [The Energy Journal](http://energyjournal.co.uk).
+Second-year PhD student in statistics and machine learning applied to renewable energy, at Imperial College London, with [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/). Funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org). Member of the [Energy Meteorology Research Group](https://research.reading.ac.uk/met-energy/). Director of Content Creation for [The Energy Journal](http://energyjournal.co.uk).
 
 
 ###  Research Interests
@@ -21,7 +21,7 @@ Computational statistics, renewable energy, machine/deep learning. See [research
 
 Year | Institution | Description
 ----- | ------- | ------------------
-(2021) | Imperial College London | PhD, Computational Statistics
+(2022) | Imperial College London | PhD, Statistics
 2018 | Imperial College London | Master's degree by research, Mathematics
 2016 | University of Oxford | Master's degree, Mathematical & Theoretical Physics
 2015 | University of Oxford | Bachelor's degree, Mathematics
