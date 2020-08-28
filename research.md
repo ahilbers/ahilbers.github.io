@@ -30,21 +30,11 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 #### Academic papers
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). Publicly available version: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916). Code [available on Github](https://github.com/ahilbers/2019_importance_subsampling).
+* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). Publicly available version: [arXiv:1903.10916](https://arxiv.org/abs/1903.10916). Code [available on Github](https://github.com/ahilbers/2019_importance_subsampling). [**Note**: The method introduced in this paper has been generalised and improved in the 2020 *importance subsampling* paper below. Please use that one for the newest version].
 
 * AP Hilbers, DJ Brayshaw, A Gandy (in review). Efficient quantification of the impact of demand and weather uncertainty in power system models. Publicly available preprint: [arXiv:1912.10326](https://arxiv.org/abs/1912.10326). Code [available on Github](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification).
 
-
-
-#### Conference Presentations
-
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). *Importance subsampling: improving power system planning under climate-based uncertainty*. Poster presented at *The Mathematics of Energy Systems*, Isaac Newton Institute, University of Cambridge, 18-22 March 2019.
-
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). *Importance subsampling: improving power system planning under climate-based uncertainty*. Talk presented at *University of Reading SIAM-IMA student chapter conference*, University of Reading, 7 June 2019.
-
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). *Improving power system planning under climate-based uncertainty*. Poster presented at *6th International Conference Energy & Meteorology (ICEM)*, Technical University Denmark (DTU), 25-27 June 2019.
-
-* AP Hilbers, DJ Brayshaw, A Gandy (2020). *Demand & weather uncertainty in power system planning: the problem, a test case and some candidate solutions*. Poster presented at *EPSRC Supergen Energy Networks Hub Risk Day*, University of Strathclyde, 4 March 2020.
+* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. To appear on IEEExplore. [arXiv:2008.10300](https://arxiv.org/abs/2008.10300). [**Note**: Runner-up for Roy Billinton Award for best student paper].
 
 
 
