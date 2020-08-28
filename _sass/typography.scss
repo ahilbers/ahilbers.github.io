@@ -70,6 +70,23 @@
             }
         }
     }
+    .loose-picture {
+        height: $image-size;
+        width: $image-size;
+        position: relative;
+        margin: -10px 0 0 0;
+        float: inline;
+        // border-radius: 50%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
     img {
         text-align: center;
         width: 100%;
