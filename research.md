@@ -50,9 +50,9 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 #### Coursera
 
-<img src="images/coursera.png">
+<img src="images/coursera.png" alt="drawing" width="10" />
 
-1
+2
 
 I helped produce a Coursera course in Tensorflow 2, which came out in 2020. It's free to take for anyone! Check it out [here](https://www.coursera.org/learn/getting-started-with-tensor-flow2).
 
