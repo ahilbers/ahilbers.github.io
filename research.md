@@ -34,7 +34,7 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 * AP Hilbers, DJ Brayshaw, A Gandy (in review). Efficient quantification of the impact of demand and weather uncertainty in power system models. Publicly available preprint: [arXiv:1912.10326](https://arxiv.org/abs/1912.10326). Code [available on Github](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification).
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. To appear on IEEExplore. [arXiv:2008.10300](https://arxiv.org/abs/2008.10300). [**Note**: Runner-up for Roy Billinton Award for best student paper].
+* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. To appear on IEEExplore. [arXiv:2008.10300](https://arxiv.org/abs/2008.10300). [**Note**: Runner-up for Roy Billinton Award for best student paper]. [[Code]](https://github.com/ahilbers/2019_importance_subsampling).
 
 
 
