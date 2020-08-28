@@ -30,11 +30,11 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 #### Academic papers
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). [[public version](https://arxiv.org/abs/1903.10916)] [[code](https://github.com/ahilbers/importance_subsampling)] [**Note**: The method introduced in this paper has been generalised and improved in the 2020 *importance subsampling* paper below. Please use that one for the newest version].
+* AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. doi: [10.1016/j.apenergy.2019.04.100](https://doi.org/10.1016/j.apenergy.2019.04.110). [[public version](https://arxiv.org/abs/1903.10916)] [[code](https://github.com/ahilbers/importance_subsampling)] [**Note**: Method is generalised and improved in the 2020 *importance subsampling* paper below. Please use that one for the newest version].
 
 * AP Hilbers, DJ Brayshaw, A Gandy (in review). Efficient quantification of the impact of demand and weather uncertainty in power system models. [[preprint](https://arxiv.org/abs/1912.10326)] [[code](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification)]
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. To appear on IEEExplore. [[public version](https://arxiv.org/abs/2008.10300)] [[Code](https://github.com/ahilbers/importance_subsampling)] [**Note**: Runner-up for Roy Billinton Award for best student paper]
+* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. To appear on IEEExplore. [[public version](https://arxiv.org/abs/2008.10300)] [[code](https://github.com/ahilbers/importance_subsampling)] [**Note**: Runner-up for Roy Billinton Award for best student paper]
 
 
 
