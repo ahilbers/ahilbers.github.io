@@ -32,7 +32,7 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2020). Efficient quantification of the impact of demand and weather uncertainty in power system models. To appear in *IEEE Transactions on Power Systems*. [[preprint](https://arxiv.org/abs/1912.10326)] [[code](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification)]
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty<sup>1</sup>. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*.[[paper](https://doi.org/10.1109/PMAPS47429.2020.9183591)] [[open access version](https://arxiv.org/abs/2008.10300)] [[code](https://github.com/ahilbers/importance_subsampling)]
+* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty<sup>1</sup>. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. [[paper](https://doi.org/10.1109/PMAPS47429.2020.9183591)] [[open access version](https://arxiv.org/abs/2008.10300)] [[code](https://github.com/ahilbers/importance_subsampling)]
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty. *Applied Energy*, 251, 113114. [[paper](https://doi.org/10.1016/j.apenergy.2019.04.110)] [[open access version](https://arxiv.org/abs/1903.10916)] [[code](https://github.com/ahilbers/importance_subsampling)] [**Note**: Please see 2020 *importance subsampling* paper for an improved version].
 
@@ -52,7 +52,7 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 #### Coursera
 
-I helped produce a Coursera course in Tensorflow 2, which came out in 2020. It's free to take for anyone! Check it out [here](https://www.coursera.org/learn/getting-started-with-tensor-flow2).
+I helped produce a Coursera course in Tensorflow 2, which came out in 2020. As of October 2020, over 10,000 people have taken the course and it has a rating of 4.9/5. It's free to take for anyone! Check it out [here](https://www.coursera.org/learn/getting-started-with-tensor-flow2).
 
 #### Teaching assistant
 
