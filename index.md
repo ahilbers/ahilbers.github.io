@@ -24,7 +24,6 @@ Year | Institution | Description
 (2022) | Imperial College London | PhD, Statistics
 2016 | University of Oxford | Master's degree, Mathematical & Theoretical Physics
 2015 | University of Oxford | Bachelor's degree, Mathematics
-2012 | International School of Amsterdam | International Baccalaureate
 
 
 
