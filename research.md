@@ -53,16 +53,16 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 #### Coursera
 
-I helped produce a Coursera course in Tensorflow 2, which came out in 2020. As of October 2020, over 10,000 people have taken the course and it has a rating of 4.9/5. It's free to take for anyone! Check it out [here](https://www.coursera.org/learn/getting-started-with-tensor-flow2).
+I helped produce a Coursera course in Tensorflow 2, which came out in 2020. As of February 2021, over 15,000 people have taken the course and it has a rating of 4.9/5. It's free to take for anyone! Check it out [here](https://www.coursera.org/learn/getting-started-with-tensor-flow2).
 
 #### Teaching assistant
 
-Year | Description
+Year | Course
 ----- | ------------------
-2019 | *Machine Learning* (university level summer school)
-2019 | *Machine Learning* (master level data science for healthcare course)
-2019 | *Mathematical Methods* (first year undergraduate mathematics course)
-2018 | *Data & Uncertainty* (master's level mathematics course)
+2021 | *Deep Learning with Tensorflow* (graduate level data science)
+2019 | *Machine Learning* (graduate level data science)
+2019 | *Mathematical Methods* (undergraduate mathematics)
+2018 | *Data & Uncertainty* (master's level mathematics)
 
 All courses at Imperial College London.
 
