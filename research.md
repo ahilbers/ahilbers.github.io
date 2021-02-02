@@ -30,9 +30,9 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 #### Academic papers
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2020). Efficient quantification of the impact of demand and weather uncertainty in power system models. To appear in *IEEE Transactions on Power Systems*. [[preprint](https://arxiv.org/abs/1912.10326)] [[code](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification)]
+* AP Hilbers, DJ Brayshaw, A Gandy (2020). Efficient quantification of the impact of demand and weather uncertainty in power system models. To appear in *IEEE Transactions on Power Systems*. [[paper](https://doi.org/10.1109/TPWRS.2020.3031187)] [[open access version](https://arxiv.org/abs/1912.10326)] [[code](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification)]
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty<sup>1</sup>. In proceedings of the *16th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. [[paper](https://doi.org/10.1109/PMAPS47429.2020.9183591)] [[open access version](https://arxiv.org/abs/2008.10300)] [[code](https://github.com/ahilbers/importance_subsampling)]
+* AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty<sup>1</sup>. In proceedings of the *16th IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. [[paper](https://doi.org/10.1109/PMAPS47429.2020.9183591)] [[open access version](https://arxiv.org/abs/2008.10300)] [[code](https://github.com/ahilbers/importance_subsampling)]
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2019). Importance subsampling: improving power system planning under climate-based uncertainty<sup>2</sup>. *Applied Energy*, 251, 113114. [[paper](https://doi.org/10.1016/j.apenergy.2019.04.110)] [[open access version](https://arxiv.org/abs/1903.10916)] [[code](https://github.com/ahilbers/importance_subsampling)]
 
