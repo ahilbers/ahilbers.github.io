@@ -14,7 +14,7 @@ is_contact: false
 
 ## PhD research
 
-**Supervisors**: [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) (Imperial College London, lead) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) (University of Reading).
+**Supervisors**: [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) (Imperial College London) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) (University of Reading).
 
 My PhD focuses on using statistics to make the best decisions in the energy transition, particularly in the electricity sector. Such decisions (e.g. whether to build a wind farm, battery or new transmission line) are typically difficult due to the complexity of electricity grids and considerable uncertainty regarding future government policy, grid developments, electricity demand/price patterns and weather events.
 
@@ -28,7 +28,7 @@ For this reason, electricity strategy is typically informed by large amounts of 
 
 See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ&hl=en&oi=ao) for up-to-date publication list.
 
-#### Academic papers
+#### Academic papers (first author)
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2020). Efficient quantification of the impact of demand and weather uncertainty in power system models. To appear in *IEEE Transactions on Power Systems*. [[paper](https://doi.org/10.1109/TPWRS.2020.3031187)] [[open access version](https://arxiv.org/abs/1912.10326)] [[code](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification)]
 
@@ -40,10 +40,17 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 <sup>2</sup>See 2020 *importance subsampling* paper for generalised version
 
 
+#### Academic papers (contributing author)
+
+* HC Bloomfield, PLM Gonzalez, JK Lundquist, LP Stoop, J Browell, R Dargaville, M De Felice, K Gruber, AP Hilbers, A Kies, M Panteli, HE Thornton, J Wohland, M Zeyringer, DJ Brayshaw (2021). The importance of weather and climate to energy systems: a workshop on next generation challenges in energy-climate modelling. *Bulletin of the American Meteorological Society*, 102(1), 159-167. [[paper][https://journals.ametsoc.org/view/journals/bams/102/1/BAMS-D-20-0256.1.xml]]
+
+
+
+
 
 #### Software
 
-* Renewable test power system models: a set of easy-to-use and customisable power system models for renewable energy and time series analysis. [[Github](https://github.com/ahilbers/renewable_test_PSMs)]
+* Renewable test power system models: a set of easy-to-use and customisable power system models for renewable energy and time series analysis. [[code](https://github.com/ahilbers/renewable_test_PSMs)]
 
 
 ---
