@@ -5,9 +5,9 @@ is_contact: true
 
 ## Contact
 
-#### <img class="inline-picture" src="images/email.png"> &nbsp; [a.hilbers@icloud.com](mailto:a.hilbers@icloud.com) (personal)
+#### <img class="inline-picture" src="images/email.png"> &nbsp; a [dot] hilbers [at] icloud [dot] com (personal)
 
-#### <img class="inline-picture" src="images/email.png"> &nbsp; [a.hilbers17@imperial.ac.uk](mailto:a.hilbers17@imperial.ac.uk) (academic)
+#### <img class="inline-picture" src="images/email.png"> &nbsp; a [dot] hilbers17 [at] imperial [dot] ac [dot] uk (academic)
 
 
 
