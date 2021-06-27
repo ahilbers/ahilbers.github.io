@@ -9,6 +9,8 @@ layout: default
 
 PhD student in statistics and machine learning applied to renewable energy, at Imperial College London, with [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/). Funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org). Member of the [Energy Meteorology Research Group](https://research.reading.ac.uk/met-energy/). Former director of Content Creation for [The Energy Journal](http://energyjournal.co.uk).
 
+**Recruiters**: Currently scheduled to graduate in Q3 2022, so unavailable for full time opportunities that require a start before then (although internships are possible).
+
 
 ###  Research Interests
 
