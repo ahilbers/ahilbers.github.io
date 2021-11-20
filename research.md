@@ -5,16 +5,16 @@ is_contact: false
 
 ## Research
 
-
-**Research interests**: Computational statistics, renewable energy, machine/deep learning.
-
+**Interests**: Statistics, renewable energy, machine learning, optimisation.
 
 ---
 
 
-## PhD research
+### PhD research
 
-**Supervisors**: [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) (Imperial College London) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) (University of Reading).
+
+
+**Supervisors**: [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) (Imperial College London), [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) (University of Reading).
 
 My PhD focuses on using statistics to make the best decisions in the energy transition, particularly in the electricity sector. Such decisions (e.g. whether to build a wind farm, battery or new transmission line) are typically difficult due to the complexity of electricity grids and considerable uncertainty regarding future government policy, grid developments, electricity demand/price patterns and weather events.
 
@@ -24,7 +24,7 @@ For this reason, electricity strategy is typically informed by large amounts of 
 ---
 
 
-## Publications
+### Publications
 
 See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ&hl=en&oi=ao) for up-to-date publication list.
 
@@ -44,25 +44,15 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 * HC Bloomfield, PLM Gonzalez, JK Lundquist, LP Stoop, J Browell, R Dargaville, M De Felice, K Gruber, AP Hilbers, A Kies, M Panteli, HE Thornton, J Wohland, M Zeyringer, DJ Brayshaw (2021). The importance of weather and climate to energy systems: a workshop on next generation challenges in energy-climate modelling. *Bulletin of the American Meteorological Society*, 102(1), 159-167. [[paper](https://journals.ametsoc.org/view/journals/bams/102/1/BAMS-D-20-0256.1.xml)]
 
+---
 
-
-
-
-#### Software
+### Software
 
 * Renewable test power system models: a set of easy-to-use and customisable power system models for renewable energy and time series analysis. [[code](https://github.com/ahilbers/renewable_test_PSMs)]
 
-
 ---
 
-
-## Teaching
-
-#### Coursera
-
-I helped produce a Coursera course in Tensorflow 2, which came out in 2020. As of February 2021, over 15,000 people have taken the course and it has a rating of 4.9/5. It's free to take for anyone! Check it out [here](https://www.coursera.org/learn/getting-started-with-tensor-flow2).
-
-#### Teaching assistant
+### Teaching
 
 Year | Course
 ----- | ------------------

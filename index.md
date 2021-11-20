@@ -7,32 +7,25 @@ layout: default
 
 <img class="profile-picture" src="images/adriaan.jpg">
 
-PhD student in statistics and machine learning applied to renewable energy, at Imperial College London, with [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/). Funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org). Member of the [Energy Meteorology Research Group](https://research.reading.ac.uk/met-energy/). Former director of Content Creation for [The Energy Journal](http://energyjournal.co.uk).
+I'm a PhD student in statistics and machine learning applied to renewable energy, at Imperial College London. I'm supervised by [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) and funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org).
+
+Besides my research, I worked as machine learning intern in the supply chain optimisation group at Amazon and as data scientist at the Boston Consulting Group. I am also former director of Content Creation for [The London Journal of Energy](http://energyjournal.co.uk).
 
 **Recruiters**: Currently scheduled to graduate in Q3 2022, so unavailable for full time opportunities that require a start before then (although internships are possible).
 
+---
 
-###  Research Interests
+### More information
 
-Computational statistics, renewable energy, machine/deep learning. See [research](research) for a description of PhD topic, full list of publications, and other research activities.
+- [Research](research): PhD, publications and teaching.
+- [Projects](projects): side projects not directly related to research.
+- [Contact](contact): contact information and other pages.
 
-
-
-
-### Education History
-
-Year | Institution | Description
------ | ------- | ------------------
-(2022) | Imperial College London | PhD, Statistics
-2016 | University of Oxford | Master's degree, Mathematical & Theoretical Physics
-2015 | University of Oxford | Bachelor's degree, Mathematics
-
-
-
+---
 
 ### Acknowledgements
 
-Page design based on template by [Ankit Sultana](https://github.com/ankitsultana).
+*Page design based on template by [Ankit Sultana](https://github.com/ankitsultana).*
 
 
 ---

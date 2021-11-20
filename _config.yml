@@ -1,6 +1,6 @@
 title: Adriaan P Hilbers
 url: https://ahilbers.github.io
-baseurl: "."
+# baseurl: "."
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -20,7 +20,7 @@ nav:
    link: "index"
  - name: "Research"
    link: "research"
- - name: "Blog"
-   link: "blog"
+ - name: "Projects"
+   link: "projects"
  - name: "Contact"
    link: "contact"
