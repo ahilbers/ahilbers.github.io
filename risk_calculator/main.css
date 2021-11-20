@@ -1,0 +1,169 @@
+* {
+    font-family: Palatino;
+}
+
+h1 {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 5px 10px 0px;
+    margin: 0px 0px 0px;
+    display: inline-block;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+#div_inputs {
+    width: 600px;
+    margin: 0px 110px 30px;
+    display: inline;
+}
+
+#div_input_units {
+    display: block;
+    width: 200px;
+}
+
+#div_inputs label {
+    float: left;
+    width: 160px;
+    display: block;
+}
+
+#div_inputs input {
+    float: right;
+    width: 25px;
+    display: inline;
+}
+
+#div_submit_button {
+    display: inline;
+}
+
+#div_submit_button input {
+    display: inline-block;
+}
+
+#div_submit_button input {
+    float: left;
+    padding: 5px 0px 5px;
+    margin: -20px 10px 0px;
+    font-size: 15px;
+    width: 260px;
+    height: 40px;
+    display: inline;
+}
+
+.results-row {
+    display: inline-block;
+}
+
+.results-row > * {
+    font-size: 16px;
+    display: inline-block;
+}
+
+.round-title {
+    text-align: center;
+    vertical-align: middle;
+    width: 70px;
+    height: 50px;
+    padding: 0px 0px 0px;
+    margin: 0px 10px 0px;
+    font-weight: bold;
+}
+
+.col-1 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 70px;
+    height: 80px;
+    padding: 0px 0px 0px;
+    margin: -5px 10px 0px;
+    text-align: right;
+}
+
+.col-2 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 120px;
+    height: 80px;
+    padding: 10px 10px 0px;
+    margin: 0px 0px 0px;
+}
+
+.col-3 {
+    display: inline-block;
+    vertical-align: middle;
+    height: 80px;
+    padding: 10px 10px 0px;
+    margin: 0px 0px 0px;
+}
+
+.die-image-parent {
+    position: relative;
+    display: inline-block;
+    margin: 0px 2px 0px;
+}
+
+.die-image-color {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 34px;
+    height: 34px;
+}
+
+.die-image {
+    position: absolute;
+    top: 3px;
+    left: 3px;
+    width: 28px;
+    height: 28px;
+}
+
+.soldier-image {
+    width: 16px;
+    height: 30px;
+    margin: 1px 0px 1px;
+    opacity: 1;
+}
+
+.soldier-image-lost {
+    width: 16px;
+    height: 30px;
+    margin: 1px 0px 1px;
+    opacity: 0.2;
+}
+
+.summary-parent {
+    padding: 10px 10px 5px;
+    margin: 0px 0px 5px;
+    border-style: solid;
+}
+
+.summary-title {
+    font-size: 20px;
+}
+
+.summary-col-1 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 70px;
+    height: 80px;
+    padding: 0px 0px 0px;
+    margin: -5px 0px 0px;
+    text-align: left;
+}
+
+.summary-col-2 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 120px;
+    height: 80px;
+    padding: 0px 5px 0px;
+    margin: -5px 0px 0px;
+    text-align: center;
+}

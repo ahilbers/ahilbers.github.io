@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8"
+        name="viewport"
+        content="width=device-width, initial-scale=1.0">
+
+  <head><title>Risk Battle Calculator</title></head>
+  <script language="JavaScript" src="main.js"></script>
+  <link rel="stylesheet" href="main.css" type="text/css">
+
+  <div id="title">
+    <h1>Risk Battle Calculator</h1>
+    <img src="img/cannon.png" height="40"
+         style="position: relative; bottom: -9px; left: 5px">
+  </div>
+
+  <body>
+    <div id="div_inputs">
+      <div id="div_input_units">
+        <form>
+          <label> Attacking units:
+            <input type="text" id="in_attack_units" class="input_num_units">
+          </label>
+        </form>
+        <form>
+          <label> Defending units:
+            <input type="text" id="in_defend_units" class="input_num_units">
+          </label>
+        </form>        
+      </div>
+      <div id="div_submit_button">
+        <input type="submit"
+               onclick="battleFromBattleButton();"
+               value="Battle!">
+      </div>
+    </div>
+    <br> <br> <br> <br>
+    <div id="div_results"></div>
+  </body>  
+  
+</html>
