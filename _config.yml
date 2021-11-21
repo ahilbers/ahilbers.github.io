@@ -1,6 +1,6 @@
 title: Adriaan P Hilbers
 url: https://ahilbers.github.io
-# baseurl: "."
+baseurl: "."  # Uncomment for Github build, comment when building locally
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
