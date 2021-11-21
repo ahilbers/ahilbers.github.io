@@ -11,6 +11,13 @@ I'm a PhD student in statistics and machine learning applied to renewable energy
 
 Besides my research, I worked as machine learning intern in the supply chain optimisation group at Amazon and as data scientist at the Boston Consulting Group. I am also former director of Content Creation for [The London Journal of Energy](http://energyjournal.co.uk).
 
+<a href = "https://github.com/ahilbers"> <img class="inline-picture" src="images/github.png" /> </a>
+<a href = "https://scholar.google.com/citations?user=SqSbcwQAAAAJ&hl=en&oi=ao"> <img class="inline-picture" src="images/scholar.jpg" /> </a>
+<a href = "https://za.linkedin.com/in/adriaan-hilbers-5a155aa5"> <img class="inline-picture" src="images/linkedin.jpeg" /> </a>
+<a href = "https://twitter.com/AdriaanHilbers"> <img class="inline-picture" src="images/twitter.png" /> </a>
+
+---
+
 **Recruiters**: Currently scheduled to graduate in Q3 2022, so unavailable for full time opportunities that require a start before then (although internships are possible).
 
 ---
