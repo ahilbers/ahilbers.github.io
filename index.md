@@ -24,8 +24,8 @@ Besides my research, I worked as machine learning intern at Amazon and as data s
 
 ### More information
 
-- [Research](research): PhD, publications and teaching.
-- [Projects](projects): side projects not directly related to research.
+- [Research](research): PhD, publications, research software and teaching.
+- [Projects](projects): side projects and general audience blog.
 - [Contact](contact): contact information and other pages.
 
 ---
