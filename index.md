@@ -26,6 +26,7 @@ Besides my research, I worked as machine learning intern at Amazon and as data s
 
 - [Research](research): PhD, publications, research software and teaching.
 - [Projects](projects): side projects and general audience blog.
+- [CV](cv.pdf): PDF version of current CV.
 - [Contact](contact): contact information and other pages.
 
 ---
