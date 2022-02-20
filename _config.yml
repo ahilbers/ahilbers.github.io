@@ -22,7 +22,5 @@ nav:
   link: "research"
 - name: "Projects"
   link: "projects"
-- name: "CV"
-  link: "cv.pdf"
 - name: "Contact"
   link: "contact"

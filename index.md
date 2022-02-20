@@ -9,7 +9,7 @@ layout: default
 
 I'm a PhD student in statistics for renewable energy optimisation at Imperial College London. I'm supervised by [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) and funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org).
 
-Besides my research, I worked as machine learning intern at Amazon and as data scientist at the Boston Consulting Group. I am also former director of Content Creation for [The London Journal of Energy](http://energyjournal.co.uk). I have a degree in mathematics and theoretical physics from Oxford University.
+My research focuses on data-driven optimisation for renewable energy systems, e.g. *where should we build a new wind farm?* or *should we build a solar plant or a battery?*
 
 <a href = "https://github.com/ahilbers"> <img class="inline-picture" src="images/github.png" /> </a>
 <a href = "https://scholar.google.com/citations?user=SqSbcwQAAAAJ&hl=en&oi=ao"> <img class="inline-picture" src="images/scholar.jpg" /> </a>
@@ -18,7 +18,19 @@ Besides my research, I worked as machine learning intern at Amazon and as data s
 
 ---
 
-**Recruiters**: Currently scheduled to graduate in Q3 2022, so unavailable for full time opportunities that require a start before then (although internships are possible).
+**Recruiters**: Currently scheduled to graduate in Q3 2022.
+
+---
+
+### Short history
+
+| Year | Institution | Activity |
+| ----- | ----- | ---- |
+| (2022) | Imperial College London |PhD, Statistics for Renewable Energy Optimisation |
+| 2021 | Boston Consulting Group | Visiting Data Scientist |
+| 2021 | Amazon | Machine Learning Research Intern |
+| 2020 | London Journal of Energy | Director of Content Creation |
+| 2016 | University of Oxford | Master Degree, Mathematics and Theoretical Physics |
 
 ---
 
@@ -26,7 +38,6 @@ Besides my research, I worked as machine learning intern at Amazon and as data s
 
 - [Research](research): PhD, publications, research software and teaching.
 - [Projects](projects): side projects and general audience blog.
-- [CV](cv.pdf): PDF version of current CV.
 - [Contact](contact): contact information and other pages.
 
 ---
