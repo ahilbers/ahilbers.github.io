@@ -41,7 +41,7 @@ Tired of rolling the dice over and over for big battles in the *Risk* boardgame?
 <img class="projects-picture" src="images/snake.png" style="margin: 5px 10px 0px 0px" /> 
 </a>
 
-A [command line snake game](https://github.com/ahilbers/cpp_snake), written in C++. Works off the shelf on Mac computers.
+A [command line snake game](https://github.com/ahilbers/cpp_snake), written in C++. Works off the shelf on Mac (and most Linux) computers.
 
 ---
 
