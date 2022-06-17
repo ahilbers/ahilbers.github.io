@@ -12,7 +12,7 @@ is_contact: false
 
 ### PhD research
 
-
+<img src="images/tube_psm.png">
 
 **Supervisors**: [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) (Imperial College London), [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) (University of Reading).
 
