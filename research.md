@@ -52,16 +52,3 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 ---
 
-### Teaching
-
-Year | Course
------ | ------------------
-2021 | *Deep Learning with Tensorflow* (graduate level data science)
-2019 | *Machine Learning* (graduate level data science)
-2019 | *Mathematical Methods* (undergraduate mathematics)
-2018 | *Data & Uncertainty* (master's level mathematics)
-
-All courses at Imperial College London.
-
-
----
