@@ -18,10 +18,6 @@ My research focuses on data-driven optimisation for renewable energy systems, e.
 
 ---
 
-**Recruiters**: Currently scheduled to graduate in Q3 2022.
-
----
-
 ### Short history
 
 | Year | Institution | Activity |
