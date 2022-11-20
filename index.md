@@ -23,6 +23,7 @@ My research focuses on data-driven optimisation for renewable energy systems, e.
 | Year | Institution | Activity |
 | ----- | ----- | ---- |
 | (2022) | Imperial College London |PhD, Statistics for Renewable Energy Optimisation |
+| 2022 | Google | Data Science Intern |
 | 2021 | Boston Consulting Group | Visiting Data Scientist |
 | 2021 | Amazon | Machine Learning Research Intern |
 | 2020 | London Journal of Energy | Director of Content Creation |
