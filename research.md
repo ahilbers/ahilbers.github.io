@@ -30,9 +30,9 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 #### Academic papers (first author)
 
-* AP Hilbers, DJ Brayshaw, A Gandy (*in review*). Reducing climate risk in energy system planning: a posteriori time series aggregation for models with storage. [[preprint](https://arxiv.org/abs/2210.08351)] [[code](https://github.com/ahilbers/a_posteriori_tsa_storage)]
+* AP Hilbers, DJ Brayshaw, A Gandy (2023). Reducing climate risk in energy system planning: a posteriori time series aggregation for models with storage. *Applied Energy*, 334, 120624. [[open access paper](https://doi.org/10.1016/j.apenergy.2022.120624)] [[code](https://github.com/ahilbers/a_posteriori_tsa_storage)]
 
-* AP Hilbers, DJ Brayshaw, A Gandy (2020). Efficient quantification of the impact of demand and weather uncertainty in power system models. *IEEE Transactions on Power Systems*, 36-3, 1771-1779. [[paper](https://doi.org/10.1109/TPWRS.2020.3031187)] [[open access version](https://arxiv.org/abs/1912.10326)] [[code](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification)]
+* AP Hilbers, DJ Brayshaw, A Gandy (2021). Efficient quantification of the impact of demand and weather uncertainty in power system models. *IEEE Transactions on Power Systems*, 36-3, 1771-1779. [[paper](https://doi.org/10.1109/TPWRS.2020.3031187)] [[open access version](https://arxiv.org/abs/1912.10326)] [[code](https://github.com/ahilbers/2020_bootstrap_uncertainty_quantification)]
 
 * AP Hilbers, DJ Brayshaw, A Gandy (2020). Importance subsampling for power system planning under multi-year demand and weather uncertainty<sup>1</sup>. In proceedings of the *16th IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS 2020)*. [[paper](https://doi.org/10.1109/PMAPS47429.2020.9183591)] [[open access version](https://arxiv.org/abs/2008.10300)] [[code](https://github.com/ahilbers/importance_subsampling)]
 
