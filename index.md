@@ -14,7 +14,6 @@ My research is on data-driven optimisation for renewable energy systems, e.g. *w
 <a href = "https://github.com/ahilbers"> <img class="inline-picture" src="images/github.png" /> </a>
 <a href = "https://scholar.google.com/citations?user=SqSbcwQAAAAJ&hl=en&oi=ao"> <img class="inline-picture" src="images/scholar.jpg" /> </a>
 <a href = "https://za.linkedin.com/in/adriaan-hilbers-5a155aa5"> <img class="inline-picture" src="images/linkedin.jpeg" /> </a>
-<a href = "https://twitter.com/AdriaanHilbers"> <img class="inline-picture" src="images/twitter.png" /> </a>
 
 ---
 
