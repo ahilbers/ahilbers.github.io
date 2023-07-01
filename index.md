@@ -20,7 +20,8 @@ Before this, I finished a PhD in statistics for renewable energy optimisation at
 ### Short history
 
 | Year | Institution | Activity |
-| ----- | ----- | ---- |
+| ---- | ----- | ---- |
+| *current* | Boston Consulting Group | Senior Data Scientist |
 | 2022 | Imperial College London | PhD, Statistics for Renewable Energy Optimisation |
 | 2021 | Boston Consulting Group | Visiting Data Scientist |
 | 2021 | Amazon | Machine Learning Research Intern |
