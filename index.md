@@ -9,7 +9,7 @@ layout: default
 
 I'm a senior data scientist at Boston Consulting Group, working on energy and sustainability projects.
 
-Before this, I finished a PhD in statistics for renewable energy optimisation at Imperial College London. I was supervised by [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) and funded by the [EPSRC Centre for Doctoral Training in Mathematics for Planet Earth](https://www.mpecdt.org). My research was on data-driven optimisation for renewable energy systems, e.g. *where should we build a new wind farm?* or *should we build a solar plant or a battery?*
+Before this, I finished a PhD in statistics for renewable energy optimisation at Imperial College London. I was supervised by [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) and funded by the EPSRC Centre for Doctoral Training in Mathematics for Planet Earth. My research was on data-driven optimisation for renewable energy systems, e.g. *where should we build a new wind farm?* or *should we build a solar plant or a battery?*
 
 <a href = "https://github.com/ahilbers"> <img class="inline-picture" src="images/github.png" /> </a>
 <a href = "https://scholar.google.com/citations?user=SqSbcwQAAAAJ&hl=en&oi=ao"> <img class="inline-picture" src="images/scholar.jpg" /> </a>
