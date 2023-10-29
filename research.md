@@ -46,6 +46,11 @@ See [Google Scholar page](https://scholar.google.com/citations?user=SqSbcwQAAAAJ
 
 * HC Bloomfield, PLM Gonzalez, JK Lundquist, LP Stoop, J Browell, R Dargaville, M De Felice, K Gruber, AP Hilbers, A Kies, M Panteli, HE Thornton, J Wohland, M Zeyringer, DJ Brayshaw (2021). The importance of weather and climate to energy systems: a workshop on next generation challenges in energy-climate modelling. *Bulletin of the American Meteorological Society*, 102(1), 159-167. [[paper](https://journals.ametsoc.org/view/journals/bams/102/1/BAMS-D-20-0256.1.xml)]
 
+
+#### PhD thesis
+
+* AP Hilbers (2023). Subsampling for renewable electricity system optimisation. Imperial College London. [[thesis](https://spiral.imperial.ac.uk/handle/10044/1/105480)]
+
 ---
 
 ### Software
