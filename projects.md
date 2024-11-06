@@ -21,24 +21,24 @@ The following articles are catered to a general audience interested in (renewabl
 
 ### Online teaching
 
-<a href = "https://www.coursera.org/learn/getting-started-with-tensor-flow2"> 
-<img class="projects-picture" src="images/coursera.png" style="margin: 0px 10px 0px 0px" /> 
+<a href = "https://www.coursera.org/learn/getting-started-with-tensor-flow2">
+<img class="projects-picture" src="images/coursera.png" style="margin: 0px 10px 0px 0px" />
 </a>
 
-I helped produce a [Coursera course on Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2), which is free to take for everyone. As of February 2022, over 25,000 people have taken the course and it has a rating of 4.9/5.
+I helped produce a [Coursera course on Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2), which is free to take for everyone. Over 30,000 people have taken the course and it has a rating of 4.9/5.
 
 ---
 
 ### Coding projects
 
-<a href = "https://github.com/ahilbers/risk_calculator"> 
-<img class="projects-picture" src="images/risk_calculator.png" style="margin: 5px 10px 0px 0px" /> 
+<a href = "https://github.com/ahilbers/risk_calculator">
+<img class="projects-picture" src="images/risk_calculator.png" style="margin: 5px 10px 0px 0px" />
 </a>
 
 Tired of rolling the dice over and over for big battles in the *Risk* boardgame? [Here's a website](https://github.com/ahilbers/risk_calculator) that calculates it for you.
 
-<a href = "https://github.com/ahilbers/cpp_snake"> 
-<img class="projects-picture" src="images/snake.png" style="margin: 5px 10px 0px 0px" /> 
+<a href = "https://github.com/ahilbers/cpp_snake">
+<img class="projects-picture" src="images/snake.png" style="margin: 5px 10px 0px 0px" />
 </a>
 
 A [command line snake game](https://github.com/ahilbers/cpp_snake), written in C++. Works off the shelf on Mac computers.
