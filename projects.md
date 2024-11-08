@@ -35,7 +35,7 @@ I helped produce a [Coursera course on Tensorflow 2](https://www.coursera.org/le
 <img class="projects-picture" src="images/psms.png" style="margin: 5px 10px 0px 0px" />
 </a>
 
-[Set of simple power (energy) system models](https://github.com/ahilbers/renewable_test_PSMs) for time series & renewable energy analysis, with a tutorial
+[Set of simple power (energy) system models](https://github.com/ahilbers/renewable_test_PSMs) for time series & renewable energy analysis, with a tutorial.
 
 <a href = "https://github.com/ahilbers/risk_calculator">
 <img class="projects-picture" src="images/risk_calculator.png" style="margin: 5px 10px 0px 0px" />
