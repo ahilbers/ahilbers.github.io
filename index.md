@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="images/adriaan.jpg">
 
-I'm a data scientist at Google, working on data center decarbonization. Before this, I worked at Boston Consulting Group, creating software for energy and sustainability projects in BCGX.
+I'm a data scientist at Google, working to make data centers more efficient. Before this, I worked at Boston Consulting Group, creating software for energy and sustainability projects in BCGX.
 
 I hold a PhD in statistics for renewable energy optimisation at Imperial College London. I was supervised by [Axel Gandy](http://wwwf.imperial.ac.uk/~agandy/) and [David Brayshaw](https://research.reading.ac.uk/meteorology/people/david-brayshaw/) and funded by the EPSRC Centre for Doctoral Training in Mathematics for Planet Earth. My research was on data-driven optimisation for renewable energy systems, e.g. *where should we build a new wind farm?* or *should we build a solar plant or a battery?*
 
